@@ -8,7 +8,7 @@ function Home() {
                 <img className="home__image" src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/gateway/placement/launch/PalmSprings/PLMS_2021_GWBleedingHero_FT_COVIDUPDATE_XSite_1500X600_PV_en-GB._CB656407890_.jpg" alt=""/>
            
             <div className="home__row">
-                <Product id="12345678" title="The Lean Startup is about learning what your customers really want — and learning it quickly. ... It's about continuously testing what you think your customers might want and adapting based on the results — and doing this before you run out of money." price={29.99} image="https://miro.medium.com/max/1838/0*8tCh9nbGbuuLbime.jpg" rating={5}/>
+                <Product id="12345678" title="The Lean Startup book is about learning what your customers really want — and learning it quickly. ... It's about continuously testing what you think your customers might want and adapting based on the results — and doing this before you run out of money." price={29.99} image="https://miro.medium.com/max/1838/0*8tCh9nbGbuuLbime.jpg" rating={5}/>
                 <Product title="Noise ColorFit Pro 2 Full Touch Control Smart Watch with 35g Weight & Upgraded LCD Display,IP68 Waterproof,Heart Rate Monitor,Sleep & Step Tracker,Call & Message Alerts & Long Battery Life (Jet Black)" price={100} image="https://rukminim1.flixcart.com/image/714/857/jb9ogi80/watch/n/3/d/trendy-watches-for-boy-codice-original-imafynyy8h883jf5.jpeg?q=50" rating={4}/>
             </div>
             <div className="home__row">
